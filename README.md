@@ -1,4 +1,1 @@
-# SensorRecording
-# WearSensorData
-# WearSensorData
 # WearSensorData
